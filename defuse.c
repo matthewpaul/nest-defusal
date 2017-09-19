@@ -6,12 +6,13 @@
 #include "bomb.h"
 
 /**
- * This function should take a string an append an 's' to it
- * @param  originalWord [description]
- * @return              [description]
+ * This function should take a number and determine whether it is negative or not
+ * @param  number [description]
+ * @return a boolean true if the number is negative, false otherwise
  */
-void pluralizer(char* originalWord, int wordLength) {
+bool isNegative(int number) {
   // Add code here
+  return false;
 }
 
 
@@ -50,9 +51,7 @@ int main (int argc, char *argv[])
   bool blueWire = (16 == secondPower(4));
 
   // Green wire
-  char* cat = "cat";
-  pluralizer(cat, 3);
-  bool greenWire = strcmp(cat, "cats") == 0;
+  bool greenWire = isNegative(-3);
 
   // Yellow wire
   bool yellowWire = (8 == aPlusB(2, 6) && 16 == aPlusB(8, 8));
