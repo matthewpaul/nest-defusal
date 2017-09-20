@@ -1,3 +1,0 @@
-/Users/shaditasdighikalat/Desktop/nest-defusal/build/CMakeFiles/rebuild_cache.dir
-/Users/shaditasdighikalat/Desktop/nest-defusal/build/CMakeFiles/edit_cache.dir
-/Users/shaditasdighikalat/Desktop/nest-defusal/build/CMakeFiles/nest-defusal.dir
