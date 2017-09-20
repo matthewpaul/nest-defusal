@@ -5,6 +5,8 @@
 #include <stdbool.h>
 #include "bomb.h"
 
+/** Matt **/
+
 /**
  * This function should take a number and determine whether it is negative or not
  * @param  number [description]
