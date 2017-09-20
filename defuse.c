@@ -42,7 +42,10 @@ int aPlusB(int a, int b) {
  * @return true if even, false otherwise
  */
 bool isEven(int value) {
-  return false;
+  if (value%2 == 0) {
+	return true;}
+  else	
+  	return false;
 }
 
 int main (int argc, char *argv[])
