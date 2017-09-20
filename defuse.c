@@ -42,6 +42,8 @@ int aPlusB(int a, int b) {
  * @return true if even, false otherwise
  */
 bool isEven(int value) {
+  if(value%2==0)
+	return true;
   return false;
 }
 
