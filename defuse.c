@@ -11,8 +11,10 @@
  * @return a boolean true if the number is negative, false otherwise
  */
 bool isNegative(int number) {
-  // Add code here
-  return false;
+  if(number > 0) {
+  	return false;
+  }
+  return true;
 }
 
 
@@ -33,7 +35,7 @@ int secondPower(int x) {
  * @return   a + b
  */
 int aPlusB(int a, int b) {
-  return 0;
+  return a + b;
 }
 
 /**
