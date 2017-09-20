@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shaditasdighikalat/Desktop/nest-defusal/bomb.h
+
+/Users/shaditasdighikalat/Desktop/nest-defusal/defuse.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+stdbool.h
+-
+bomb.h
+/Users/shaditasdighikalat/Desktop/nest-defusal/bomb.h
+
